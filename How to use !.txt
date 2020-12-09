@@ -1,0 +1,13 @@
+Hey!, This is a simple python script that basically arrange your files and groups them into a folder,
+(This grouping is done based on the file extension)
+
+HOW TO USE
+-Copy the python file an paste it in the folder that contains the files you want to organise.
+-Double click on the python file to run it.
+-And voila!, your files are organized within seconds.
+
+Enjoy and share!
+
+For Devs - You can also improve on the script if you want(like adding more file extensions)
+
+Credits/Code Writer - BENDEVCODE
